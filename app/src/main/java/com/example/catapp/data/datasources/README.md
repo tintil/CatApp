@@ -1,0 +1,1 @@
+This package should contain sources classes which provides functionality  to get, save or another manipulations with data

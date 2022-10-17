@@ -1,0 +1,1 @@
+This package should contain fragments, adapters and other files concerning specific module

@@ -1,0 +1,1 @@
+This package should contain viewmodels for different fragments
